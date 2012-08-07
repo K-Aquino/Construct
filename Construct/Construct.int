@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: 0.1 Entities\Player.dm;Construct.dme;+ Resources\Sprites\Entities\Player.dmi;0.0 Main\Application.dm;0.2 Mechanics\Map Generator.dm
+WINDOW: 0.1 Entities\Terrains.dm;+ Resources\Sprites\Entities\Tilesets.dmi;0.2 Mechanics\AI.dm;0.1 Entities\Player.dm
 LAST_COMPILE_VERSION: 496.1145
-DIR: + Resources + Resources\Sprites + Resources\Sprites\Entities 0.0 Main 0.1 Entities 0.2 Mechanics 
-FILE: 0.1 Entities\Player.dm
-LAST_COMPILE_TIME: 1344315970
+DIR: + Resources 0.1 Entities 0.2 Mechanics 
+FILE: 0.2 Mechanics\AI.dm
+LAST_COMPILE_TIME: 1344322811
 AUTO_FILE_DIR: ON
 */
 // END_INTERNALS
