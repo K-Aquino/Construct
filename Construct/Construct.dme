@@ -10,6 +10,7 @@
 #define FILE_DIR "+ Resources"
 #define FILE_DIR "+ Resources/Sprites"
 #define FILE_DIR "+ Resources/Sprites/Entities"
+#define FILE_DIR "+ Resources/Sprites/Misc"
 #define FILE_DIR "0.0 Main"
 #define FILE_DIR "0.1 Entities"
 #define FILE_DIR "0.2 Mechanics"

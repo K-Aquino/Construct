@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: 0.1 Entities\Terrains.dm;+ Resources\Sprites\Entities\Tilesets.dmi;0.2 Mechanics\AI.dm;0.1 Entities\Player.dm;+ Resources\Sprites\Entities\Player.dmi;0.2 Mechanics\Building.dm;+ Resources\Sprites\Entities\Build - Stone Blocks.dmi
+WINDOW: 0.2 Mechanics\AI.dm;0.1 Entities\Player.dm;+ Resources\Sprites\Entities\Player.dmi;0.2 Mechanics\Building.dm;+ Resources\Sprites\Entities\Build - Stone Blocks.dmi;0.0 Main\Application.dm;+ Resources\Sprites\Misc\HUD.dmi
 LAST_COMPILE_VERSION: 496.1145
-DIR: + Resources + Resources\Sprites + Resources\Sprites\Entities 0.1 Entities 0.2 Mechanics 
-FILE: + Resources\Sprites\Entities\Build - Stone Blocks.dmi
-LAST_COMPILE_TIME: 1344359870
+DIR: + Resources + Resources\Sprites + Resources\Sprites\Misc 0.0 Main 0.1 Entities 0.2 Mechanics 
+FILE: + Resources\Sprites\Misc\HUD.dmi
+LAST_COMPILE_TIME: 1344362202
 AUTO_FILE_DIR: ON
 */
 // END_INTERNALS
