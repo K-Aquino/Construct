@@ -23,5 +23,6 @@
 #include "0.1 Entities\Player.dm"
 #include "0.1 Entities\Terrains.dm"
 #include "0.2 Mechanics\AI.dm"
+#include "0.2 Mechanics\Building.dm"
 // END_INCLUDE
 

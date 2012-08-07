@@ -12,7 +12,7 @@ AI
 				if("exclusive")	ai_type = "exclusive"
 	proc
 		//	This procedure incorporates pathfinding; it checks to see if there are any obstacles within a tile from it, and avoids
-		//	the obstacle by moving around to it and getting to its destination.
+		//	the obstacle by moving around it and getting to its destination.
 		move_to(mob/dest)
 
 		//	This procedure is called upon spawning of enemies; enemies wander around, and if there's a target in their sight, they
