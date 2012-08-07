@@ -1,6 +1,6 @@
 #define DEBUG
 
 world
-	name = "Construct (v1)"
+	name = "Construct (v1.1)"
 	icon_size = 32
 	sleep_offline = 1

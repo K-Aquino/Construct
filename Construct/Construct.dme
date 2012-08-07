@@ -7,13 +7,20 @@
 
 // BEGIN_FILE_DIR
 #define FILE_DIR .
+#define FILE_DIR "+ Resources"
+#define FILE_DIR "+ Resources/Sprites"
+#define FILE_DIR "+ Resources/Sprites/Entities"
 #define FILE_DIR "0.0 Main"
 #define FILE_DIR "0.1 Entities"
+#define FILE_DIR "0.2 Mechanics"
 // END_FILE_DIR
 
 // BEGIN_PREFERENCES
 // END_PREFERENCES
 
 // BEGIN_INCLUDE
+#include "0.0 Main\Application.dm"
+#include "0.1 Entities\Player.dm"
+#include "0.2 Mechanics\Map Generator.dm"
 // END_INCLUDE
 
